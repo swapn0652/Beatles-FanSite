@@ -1,5 +1,8 @@
 # Beatles_FanSite
 A fan site  of the Band The Beatles
+
+> ⚠️ This project was originally developed and published under [my old GitHub account](https://github.com/swapn652/Beatles_FanSite), which I no longer have access to.
+
 <hr>
 
 # Screenshots
